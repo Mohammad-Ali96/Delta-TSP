@@ -1,0 +1,8 @@
+Information : 
+The Weight Of Minimum Spainng Tree is : 159
+The Weight of Graph After Greedy Matching is : 245
+The Cost of Path That visit every vertex only once is : 735
+The Algorithm's time is : 2.63264E-4 ms 
+And The Path is : 
+The Path is:
+ { 1 --> 2 --> 6 --> 5 --> 3 --> 7 --> 4 --> 1  } 
